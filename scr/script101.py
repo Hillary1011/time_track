@@ -1,4 +1,4 @@
-# Version 1
+# Version 2
 from datetime import datetime
 now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
